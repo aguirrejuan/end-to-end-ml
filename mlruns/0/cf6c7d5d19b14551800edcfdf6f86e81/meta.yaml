@@ -1,0 +1,15 @@
+artifact_uri: file:///home/juan/dev/end-to-end-ml/mlruns/0/cf6c7d5d19b14551800edcfdf6f86e81/artifacts
+end_time: 1709064151845
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf6c7d5d19b14551800edcfdf6f86e81
+run_name: auspicious-colt-403
+run_uuid: cf6c7d5d19b14551800edcfdf6f86e81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709064142960
+status: 3
+tags: []
+user_id: juan
